@@ -1,2 +1,2 @@
-# MyProject
-Repository baru dari PC lokal
+# Tugas akhir git
+deskripsi tugas akhir
