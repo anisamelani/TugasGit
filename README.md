@@ -1,2 +1,2 @@
 # Tugas akhir git
-deskripsi tugas akhir
+contoh deskripsi tugas akhir
